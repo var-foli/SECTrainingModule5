@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SECTrainingModule5/static/css/main.a86bda18.css",
+    "main.js": "/SECTrainingModule5/static/js/main.85e5580e.js",
+    "index.html": "/SECTrainingModule5/index.html",
+    "main.a86bda18.css.map": "/SECTrainingModule5/static/css/main.a86bda18.css.map",
+    "main.85e5580e.js.map": "/SECTrainingModule5/static/js/main.85e5580e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86bda18.css",
+    "static/js/main.85e5580e.js"
+  ]
+}
